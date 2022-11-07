@@ -1,0 +1,26 @@
+.group-sorting-container {
+  position: relative;
+  /* border: solid 1px var(--white); */
+}
+.placement-number {
+  position: absolute;
+  font-size: 2.4rem;
+  line-height: 2.88rem;
+}
+.first {
+  top: 2.2rem;
+}
+.second {
+  top: 11.7rem;
+}
+.third {
+  top: 21.2rem;
+}
+.fourth {
+  top: 30.7rem;
+}
+.line-separator {
+  height: 2px;
+  border: none;
+  background-color: var(--darkgrey);
+}
